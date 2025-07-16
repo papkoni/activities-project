@@ -1,6 +1,6 @@
 namespace ActivityServise.Domain.Entities;
 
-public class User 
+public class User
 {
     public string? DisplayName { get; set; }
     public string? Bio { get; set; }
